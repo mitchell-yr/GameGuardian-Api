@@ -1,0 +1,17 @@
+# APKTool build output
+build/
+dist/
+
+# Keystore files (sensitive)
+*.keystore
+*.jks
+*.p12
+
+# IDE
+.idea/
+*.iml
+.vscode/
+
+# OS
+.DS_Store
+Thumbs.db
